@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Emotion Detector</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Real-Time Emotion Detector</h1>
+  <div class="video-container">
+    <video id="video" autoplay muted></video>
+    <canvas id="overlay"></canvas>
+  </div>
+  <div id="emotion">Detecting emotion...</div>
+
+  <!-- face-api.js library -->
+  <script defer src="https://cdn.jsdelivr.net/npm/face-api.js@0.22.2/dist/face-api.min.js"></script>
+  <script defer src="script.js"></script>
+</body>
+</html>

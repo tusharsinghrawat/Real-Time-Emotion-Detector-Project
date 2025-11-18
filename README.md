@@ -27,7 +27,7 @@ This project uses your device camera to detect your **face** and recognize **rea
 - **CSS3**
 - **JavaScript**
 - **face-api.js (TensorFlow.js based)**
-- 
+   
 
 ## 📂 Project Structure
 

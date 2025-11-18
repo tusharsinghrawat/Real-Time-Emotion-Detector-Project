@@ -1,5 +1,6 @@
 # 🎭 Real-Time Emotion Detector Project 
 Live Face Detection + Emotion Recognition using **face-api.js**
+
 This project uses your device camera to detect your **face** and recognize **real-time emotions** such as Happy, Sad, Angry, Fearful, Surprised, Neutral, etc.
 
 
